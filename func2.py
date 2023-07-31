@@ -3,4 +3,5 @@ def func(x,y):
     y = y+7
     z =0
     z = z+8
+    print('la la la la weebie')
     return x%y + 2
