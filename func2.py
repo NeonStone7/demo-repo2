@@ -1,4 +1,5 @@
 def func(x,y):
+    print('WTF')
     x = x*2 / 3 / 9
     y = y+7
     z =0
