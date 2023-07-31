@@ -1,5 +1,10 @@
 def func(x,y):
+<<<<<<< HEAD
     x = x*2 
+=======
+    print('WTF')
+    x = x*2 / 3 / 9
+>>>>>>> new-branch
     y = y+7
     z =0
     z = z+8
